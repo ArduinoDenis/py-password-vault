@@ -3,7 +3,7 @@
 """
 Generatore di Password Avanzato
 Un'applicazione moderna per generare password sicure con interfaccia grafica
-Autore: Assistente AI
+Autore: ArduinoDenis.it
 Versione: 2.0
 """
 
@@ -619,3 +619,4 @@ Esempi d'uso:
 
 if __name__ == "__main__":
     main()
+
