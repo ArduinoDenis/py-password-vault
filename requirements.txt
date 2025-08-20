@@ -1,0 +1,2 @@
+# Dipendenze per il Generatore Password Avanzato v2.0
+cryptography>=41.0.0
